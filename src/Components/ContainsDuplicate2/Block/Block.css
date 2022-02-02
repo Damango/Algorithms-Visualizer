@@ -1,0 +1,17 @@
+.block-container {
+	position: relative;
+	top: 0px;
+	display: inline-block;
+	background-color: orange;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 30px;
+	transition: 0.3s;
+}
+
+.true {
+	top: -20px;
+	background-color: purple !important;
+	color: white !important;
+	transition: 0.3s;
+}
